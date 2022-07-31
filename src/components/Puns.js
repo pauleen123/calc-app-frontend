@@ -4,7 +4,7 @@ import "./Puns.css";
 function Puns() {
   const [puns, setPuns] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:5000/puns")
+    fetch("https://mathematrixx2.herokuapp.com/puns")
       .then((res) => res.json())
       .then((puns) => setPuns(puns));
   }, []);

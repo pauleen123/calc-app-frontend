@@ -1,0 +1,27 @@
+body {
+/* background-color: ; */
+
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.calc-wrapper{
+  background-color: white;
+  
+  width: 400px;
+  border-radius: 16px;
+}
+
+.row{
+  display: flex;
+}
+
+.heading{
+  font-family: sans-serif;
+  font-size: larger;
+}

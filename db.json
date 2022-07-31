@@ -1,0 +1,45 @@
+{
+  "puns": [
+    {
+      "id": 1,
+      "name": "GEOMETRY JOKES",
+      "description": "What did the triangle say to the circle? “You are pointless"      
+    },
+
+    {
+      "id": 2,
+      "name": "MULTIPLICATION AND DIVISION JOKES",
+      "description": "Why did the student do multiplication problems on the floor? The teacher told him not to use tables."
+    },
+
+    {
+      "id": 3,
+      "name": "CCOUNTING JOKES",
+      "description": "A talking sheepdog rounds up all the sheep into the pen for his farmer. He comes back and says, “Okay, Chief — all 40 sheep accounted for”. The farmer says, “But I have counted them and I have only got 36!” The sheepdog replies, “I know, but I rounded them up.”"
+    },
+
+    {
+      "id": 4,
+      "name": "FRACTIONS JOKES",
+      "description": "There is a fine line between a numerator and a denominator… But only a fraction would understand."
+    },
+
+    {
+      "id": 5,
+      "name": "STATISTICS JOKES",
+      "description": "A statistician got soaking wet trying to cross a river. He thought he could cross, because it was one-foot deep on average."
+    },  
+
+    {
+      "id": 6,
+      "name": "ALGEBRA JOKES",
+      "description": "Why did the boy refuse to drink the water with eight ice cubes in it? Because it is too cubed!"
+    },
+    
+    {
+      "id": 7,
+      "name": "PI JOKES",
+      "description": "Who was the roundest knight at King Arthur table? Sir Cumference. How did he get so round? He ate too many 'π’s'."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.about-style{
+    background-color: #e7e3e8;
+    color: #5b575c;
+    align-items: flex-start;
+    font-size: large;
+    flex-wrap: wrap;
+    display: block;
+    justify-content: center;
+
+}

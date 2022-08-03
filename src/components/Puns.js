@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./Puns.css";
+// import "./Puns.css";
 
 function Puns() {
   const [puns, setPuns] = useState([]);

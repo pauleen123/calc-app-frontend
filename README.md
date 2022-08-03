@@ -8,8 +8,7 @@
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation Process](#installation-Process)
-- [Live link](https://pauleen123.github.io/weather-app.github.io/)
-- [Technology Used](#technology-Used)
+- [Links](### Links to Deployment)
 - [Licence](#licence)
 - [Authors Info](#Authors-info)
 

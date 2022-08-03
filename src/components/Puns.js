@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-// import "./Puns.css";
 
 function Puns() {
   const [puns, setPuns] = useState([]);
@@ -11,11 +10,11 @@ function Puns() {
   return (
     <div
       style={{
-        display: "flex",
-        // justifyContent: "center",
-        // alignItems: "center",
+        display: "block",
+        justifyContent: "center",
+        alignItems: "",
         height: "60vh",
-        background: "lightgrey",
+        background: "white",
       }}
     >
       {puns &&
